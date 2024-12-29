@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KHDkwFc494HQKRECkUOb-22" value="Define the Optimiser" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="390" y="591" width="142" height="49" as="geometry" />
+          <mxGeometry x="390" y="601" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KHDkwFc494HQKRECkUOb-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KHDkwFc494HQKRECkUOb-25" target="KHDkwFc494HQKRECkUOb-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -136,16 +136,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KHDkwFc494HQKRECkUOb-92" value="Define the learning rate scheduler" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="390" y="659" width="142" height="49" as="geometry" />
+          <mxGeometry x="390" y="680" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KHDkwFc494HQKRECkUOb-108" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;$$\theta \leftarrow \theta - \eta \nabla_\theta \mathcal{L}_\text{batch}$$&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="512" width="400" height="50" as="geometry" />
+          <mxGeometry x="250" y="519" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KHDkwFc494HQKRECkUOb-109" value="$$\text{Imp}_j = \sum_{t \in \text{Trees}} \Delta \text{Imp}_{j,t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="409" y="150" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KHDkwFc494HQKRECkUOb-110" value="$$\mathcal{L}_{\text{batch}} = \frac{1}{B} \sum_{i=1}^{B} (y_{i} - \hat{y}_{i})^2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="247" y="552.5" width="440" height="30" as="geometry" />
+          <mxGeometry x="247" y="562.5" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k1PDY-SbIJY4RnQ1nkLj-5" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Yes&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="948" width="40" height="30" as="geometry" />
